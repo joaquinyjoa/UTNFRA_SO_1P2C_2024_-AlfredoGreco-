@@ -15,3 +15,4 @@ sudo mount /dev/sdc3 /Examenes-UTN/alumno_1/parcial_3/
 sudo mount /dev/sdc5 /Examenes-UTN/alumno_2/parcial_1/
 sudo mount /dev/sdc6 /Examenes-UTN/alumno_2/parcial_2/
 sudo mount /dev/sdc7 /Examenes-UTN/alumno_2/parcial_3/
+sudo mount /dev/sdc8 /Examenes-UTN/alumno_3/parcial_1/
