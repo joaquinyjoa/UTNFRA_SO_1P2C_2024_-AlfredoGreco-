@@ -7,3 +7,4 @@ sudo mkfs -t ext4 /dev/sdc6
 sudo mkfs -t ext4 /dev/sdc7
 sudo mkfs -t ext4 /dev/sdc8
 sudo mkfs -t ext4 /dev/sdc9
+sudo mkfs -t ext4 /dev/sdc10
