@@ -1,1 +1,2 @@
 sudo groupadd p1c2_2024_gAlumno
+sudo groupadd p1c2_2024_gProfesores
