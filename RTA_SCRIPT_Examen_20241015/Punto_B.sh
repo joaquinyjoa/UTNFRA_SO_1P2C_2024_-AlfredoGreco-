@@ -12,3 +12,4 @@ sudo mkfs -t ext4 /dev/sdc11
 sudo mount /dev/sdc1 /Examenes-UTN/alumno_1/parcial_1/
 sudo mount /dev/sdc2 /Examenes-UTN/alumno_1/parcial_2/
 sudo mount /dev/sdc3 /Examenes-UTN/alumno_1/parcial_3/
+sudo mount /dev/sdc5 /Examenes-UTN/alumno_2/parcial_1/
