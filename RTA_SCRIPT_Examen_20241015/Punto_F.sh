@@ -4,3 +4,5 @@ Mi usuario es:
 vagrant
 echo Mi usuario es: >> repogit/UTNFRA_SO_1P2C_2024_-AlfredoGreco-/RTA_ARCHIVOS_Examen_20241015/Filtro_Avanzado.txt
 whoami >> repogit/UTNFRA_SO_1P2C_2024_-AlfredoGreco-/RTA_ARCHIVOS_Examen_20241015/Filtro_Avanzado.txt
+echo El Hash de mi usuario es: >> repogit/UTNFRA_SO_1P2C_2024_-AlfredoGreco-/RTA_ARCHIVOS_Examen_20241015/Filtro_Avanzado.txt
+sudo grep vagrant /etc/shadow | awk -F ':' '{print }' >> repogit/UTNFRA_SO_1P2C_2024_-AlfredoGreco-/RTA_ARCHIVOS_Examen_20241015/Filtro_Avanzado.txt
