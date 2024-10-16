@@ -12,3 +12,4 @@ sudo chown p1c2_2024_A3:p1c2_2024_A3 /Examenes-UTN/alumno_3
 sudo chmod 775 /Examenes-UTN/alumno_3
 sudo useradd -m -s /bin/bash -G p1c2_2024_gProfesores -p $y$j9T$bh5YqA58p2TOeYKRpitlU1$U.cspPLScu.WOCf2pqFDX5/WdoRu0lzqEgO002xQVQ9 p1c2_2024_P1
 sudo chown p1c2_2024_P1:p1c2_2024_gProfesores /Examenes-UTN/profesores
+sudo chmod 770 /Examenes-UTN/profesores
