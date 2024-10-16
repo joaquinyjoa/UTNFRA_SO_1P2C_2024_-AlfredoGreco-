@@ -15,3 +15,4 @@ sudo chown p1c2_2024_P1:p1c2_2024_gProfesores /Examenes-UTN/profesores
 sudo chmod 770 /Examenes-UTN/profesores
 su -c 'whoami > /Examenes-UTN/alumno_1/validar.txt' - p1c2_2024_A1
 sudo su -c 'whoami > /Examenes-UTN/alumno_2/validar.txt' - p1c2_2024_A2
+sudo su -c 'whoami > /Examenes-UTN/alumno_3/validar.txt' - p1c2_2024_A3
